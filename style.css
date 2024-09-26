@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#skills:hover {
+    box-shadow: 5px 5px 5px 5px white;
+    cursor: pointer;
+}
+
+#imgClick {
+    border: dotted 1px #1466c3;
+}
+#imgClick:hover {
+    cursor: pointer;
+    box-shadow: 2px 2px 2px #1466c3;
+}
+
+#title {
+    cursor: pointer;
+}
+#title:hover {
+    font-weight: 700;
+}
+
+p span {
+    transition: 0.5s;
+}
+
+p:hover span:nth-child(1) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(2) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(3) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(4) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(5) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(6) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(7) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(8) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(9) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(10) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(11) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(12) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(13) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(14) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(15) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(16) {
+    margin-right: 5px;
+}
+p:hover span:nth-child(17) {
+    margin-right: 5px;
+}
+
+
+h1 {
+    font-size: 6em;
+    font-weight: 500;
+    color: black;
+    /* letter-spacing: 2px; */
+    cursor: pointer;
+}
+
+h1 span {
+    transition: 0.5s;
+}
+
+h1:hover span:nth-child(1) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(2) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(3) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(4) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(5) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(6) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(7) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(8) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(9) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(10) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(11) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(12) {
+    margin-right: 8px;
+}
+h1:hover span:nth-child(13) {
+    margin-right: 8px;
+}
